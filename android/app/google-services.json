@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841101825274",
+    "project_id": "newauth-a9052",
+    "storage_bucket": "newauth-a9052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841101825274:android:cbf40c15d00cb428f46543",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841101825274-617rvgs65kdk3935m7h1uj7j4cu644au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWNM-yZ0rnLJovwOI0iK-EgvWpyT7wHec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841101825274-617rvgs65kdk3935m7h1uj7j4cu644au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
